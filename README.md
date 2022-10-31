@@ -35,14 +35,14 @@
 
 [![Ali GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=imalihaider&&theme=xcode)](https://github.com/imalihaider)
 
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=imalihaider&show_icons=true&locale=en&theme=tokyonight" alt="imalihaider" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="imalihaider" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=imalihaider&show_icons=true&locale=en&theme=tokyonight" alt="imalihaider" width="400" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="imalihaider" width="400" />
 </p>
 <a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="imalihaider" width="400"/></p>
-  </a>
 
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="imalihaider" /></p>
+  
 
 
 
