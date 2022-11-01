@@ -35,14 +35,14 @@
 [![Ali GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=imalihaider&&theme=xcode)](https://github.com/imalihaider)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=imalihaider&show_icons=true&locale=en&theme=tokyonight" alt="imalihaider" width="400" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="imalihaider" width="400" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imalihaider&&theme=tokyonight" alt="imalihaider" width="400" />
 </p>
 <a>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="imalihaider" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imalihaider&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="imalihaider" /></p>
   
 
 ## Watch my contribution graph eaten by the snake🐍
-![snake gif](https://github.com/narayanbavisetti/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/imalihaider/imalihaider/blob/output/github-contribution-grid-snake.gif)
 
